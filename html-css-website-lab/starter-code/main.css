@@ -1,0 +1,52 @@
+#lineUp{
+    height: 5px;
+    background-color: #000;
+    margin-top: 20px;
+}
+#lineDwon{
+    height: 5px;
+    background-color: #000;
+    margin: 60px auto 20px auto;
+}
+p{
+    width: 790px;
+    height: 61px;
+    font-size: 33px;
+}
+/* h2{
+    font-size: 33px; 
+} */
+.textCenter{
+    text-align: center;
+    margin-top: 30px;
+}
+.line2{
+    height: 1px;
+    background-color: #000;
+    margin-top: 61px;
+}
+.line3{
+    height: 1px;
+    background-color: #000;
+    margin-top: 90px;
+}
+
+.img{   
+    position: absolute;
+    right: 75px;
+    border: 2px solid black;
+    padding: 5px;
+    width: 216px;
+}
+
+.textMargin{
+    margin-left: 50px;
+    
+}
+.img2{
+    width: 900px;
+    margin: 53px 90px auto 153px;
+    border: 2px solid black;
+}
+
+
